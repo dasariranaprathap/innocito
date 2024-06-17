@@ -2,4 +2,10 @@ Hi I am automation tester
 Hi i am manual tester
 Hi I am performance tester
 Hi am RPA tester
+<<<<<<< HEAD
 Hi i have switched to main branch
+=======
+Hi i have swithced to feature branch
+hi  i am testing wiithout deleting feature bbranch
+Hi testing again
+>>>>>>> a7fd0be4230d3a79754f4795e3ed996e9183b635
